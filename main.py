@@ -9,7 +9,7 @@ engine_path = "/usr/games/stockfish"
 max_depth = 5
 max_time = 0.01
 blunder_thresh = -150
-pgn_file_path = "pgn/single_blunder_test.pgn"
+pgn_file_path = "pgn/example-1.pgn"
 possible = 5
 
 
